@@ -324,9 +324,6 @@ lib/
 ├── main.dart
 └── firebase_options.dart
 ```
-
----
-
 # Demo Credentials
 
 Use the following DummyJSON demo accounts.
@@ -336,15 +333,6 @@ Use the following DummyJSON demo accounts.
 | `emilys` | `emilyspass` | Admin |
 | `michaelw` | `michaelwpass` | User |
 | `sophiab` | `sophiabpass` | User |
-
-
-| Field | Information |
-|-------|-------------|
-| Student ID | Your Student ID |
-| Email | Your Email |
-| Course | Course Name |
-
----
 
 # References
 
